@@ -1,0 +1,49 @@
+.navbar{
+  font-size: 20px;
+}
+
+.logo{
+  height: 80px;
+  width: 300px;
+}
+
+.booking{
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.hotelheading{
+  padding: 60px;
+}
+h1{
+  color: #0a97b0;
+}
+*{
+  font-family: 'Lora', serif;
+}
+
+
+
+                              /* footer */
+
+
+
+#footer{
+  background-color: #333;
+  color: #f0f0f0;
+  padding: 60px 0;
+
+}
+
+
+.links p{
+  color: grey;
+}
+
+                             /* copyright */
+
+#copyright{
+  background-color: #f7f7f7;
+  padding: 10px 0;
+  color: #000;
+}

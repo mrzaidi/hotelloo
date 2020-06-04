@@ -1,0 +1,58 @@
+.navbar{
+  font-size: 20px;
+}
+.logo{
+  height: 80px;
+  width: 300px;
+}
+
+.doing{
+  text-align: center;
+  padding: 40px 0;
+  background: #f7f7f7;
+}
+*{
+  font-family: 'Lora', serif;
+}
+.doing h1{
+  color: #0a97b0;
+  margin-bottom: 40px;
+}
+.collaboration{
+  text-align: center;
+  margin: 70px 0;
+}
+
+.collaboration h1{
+  color: #0a97b0;
+  margin-bottom: 40px;
+}
+
+.Collab {
+  height: 80px;
+  width: 150px;
+}
+
+                              /* footer */
+
+
+
+#footer{
+  background-color: #333;
+  color: #f0f0f0;
+  padding: 60px 0;
+
+}
+
+
+.links p{
+  color: grey;
+}
+
+                             /* copyright */
+
+#copyright{
+  background-color: #f7f7f7;
+  padding: 10px 0;
+  color: #000;
+}

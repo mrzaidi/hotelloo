@@ -1,0 +1,64 @@
+.about{
+  text-align: center;
+  padding: 60px;
+  background-color: #f7f7f7;
+}
+.navbar{
+  font-size: 20px;
+}
+
+.logo{
+  height: 80px;
+  width: 300px;
+}
+*{
+  font-family: 'Lora', serif;
+}
+.about h1{
+  color: #0a97b0;
+}
+.providing{
+  text-align: center;
+}
+
+.service{
+  padding: 40px 0;
+  background: #888888;
+  color: white;
+}
+
+.working{
+  padding: 60px 0;
+  background: #888888;
+  color: white;
+}
+.services{
+  height: 50px;
+  width: 50px;
+}
+
+
+
+                              /* footer */
+
+
+
+#footer{
+  background-color: #333;
+  color: #f0f0f0;
+  padding: 60px 0;
+
+}
+
+
+.links p{
+  color: grey;
+}
+
+                             /* copyright */
+
+#copyright{
+  background-color: #f7f7f7;
+  padding: 10px 0;
+  color: #000;
+}
